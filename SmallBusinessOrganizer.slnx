@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SmallBusinessOrganizer.Data/SmallBusinessOrganizer.Data.csproj" />
+    <Project Path="src/SmallBusinessOrganizer.Services/SmallBusinessOrganizer.Services.csproj" />
+    <Project Path="src/SmallBusinessOrganizer.Web/SmallBusinessOrganizer.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SmallBusinessOrganizer.Services.Tests/SmallBusinessOrganizer.Services.Tests.csproj" />
+  </Folder>
+</Solution>
